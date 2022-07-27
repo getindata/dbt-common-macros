@@ -1,0 +1,7 @@
+name: 'dbt_common_macros'
+version: '0.1.0'
+
+require-dbt-version: [">=1.0.0"]
+config-version: 2
+
+macro-paths: ["macros"]
